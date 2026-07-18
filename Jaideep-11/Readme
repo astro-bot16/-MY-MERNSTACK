@@ -1,0 +1,147 @@
+# 👟 Thala Sneaker Store
+
+A modern and responsive sneaker e-commerce landing page built using **HTML5** and **CSS3**. The project showcases a clean UI with product display, shopping cart, and checkout sections inspired by modern online shopping websites.
+
+---
+
+## 📌 Features
+
+- Responsive design for desktop, tablet, and mobile devices
+- Fixed navigation bar
+- Hero section with promotional banner
+- Product showcase with image gallery
+- Shopping cart layout
+- Coupon code section
+- Order summary
+- Checkout and payment form
+- Hover animations and smooth transitions
+- Razorpay payment branding
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Media Queries
+- Font Awesome Icons
+
+---
+
+## 📂 Project Structure
+
+```
+Thala-Sneaker-Store/
+│
+├── index.html
+├── style.css
+├── README.md
+│
+├── images/
+│   ├── background.png
+│   ├── shoe.jpg
+│   ├── shoeimg1.jpg
+│   ├── shoeimg2.jpg
+│   ├── shoeimg3.webp
+│   ├── shoeimg4.jpg
+│   ├── razorpay-icon.png
+│   ├── clipart1442560.png
+│   └── ...
+```
+
+---
+
+## ✨ Website Sections
+
+- Navigation Bar
+- Hero Banner
+- Service Overview
+- Product Details
+- Image Gallery
+- Shopping Cart
+- Checkout Form
+- Order Summary
+- Payment Section
+
+---
+
+## 🎯 Responsive Design
+
+The website is responsive using CSS Media Queries and adapts to:
+
+- Desktop
+- Tablet
+- Mobile
+
+Responsive improvements include:
+
+- Flexible layouts
+- Stacked sections on smaller screens
+- Responsive navigation
+- Adaptive payment form
+- Responsive product gallery
+
+---
+
+## 🚀 How to Run
+
+1. Download or clone the repository.
+
+```
+git clone https://github.com/astro-bot16/OIBSIP.git
+```
+
+2. Open the project folder.
+
+3. Open `index.html` in your browser.
+
+or
+
+Use the **Live Server** extension in Visual Studio Code.
+
+---
+
+## 📸 Screenshots
+
+Add screenshots of:
+
+- Home Page
+- Product Section
+- Shopping Cart
+- Checkout Page
+
+---
+
+## 🔮 Future Improvements
+
+- JavaScript functionality
+- Product filtering
+- Dark mode
+- User authentication
+- Wishlist feature
+- Payment gateway integration
+- Backend integration
+- Database support
+
+---
+
+## 👨‍💻 Author
+
+**Jaideep Bhookya**
+
+Student at Uttaranchal University  
+MERN Stack Learner | AI & ML Enthusiast
+
+GitHub: https://github.com/astro-bot16
+
+LinkedIn: https://linkedin.com/in/jaideepbhookya
+
+---
+
+## 📄 License
+
+This project is created for learning and internship purposes.
+
+© 2026 Jaideep Bhookya
